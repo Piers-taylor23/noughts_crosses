@@ -9,6 +9,14 @@ function TextHarder() {
         colour: "black"
     });
 
+    // function renderCar(car) {
+    //     return {
+    //         <>
+    //         <button>
+    //         </button>
+    //     }
+    // }
+
     // function updateColour(){
     //     setCar(previousState => {
     //         return {...previousState, colour: "red"}
